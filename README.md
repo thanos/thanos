@@ -4,6 +4,7 @@
 I’m looking for work where my experience and creative development skills will be used. I’m not seeking a title but a position where I can remain hands on and yet have enough responsibility and trust to really contribute to the company. In my career I’ve had the  privilege to built really great development teams, and with them create powerful and successful frameworks and applications. I’m hoping these experiences and my strong technical and creative abilities will be exploited. Although I’ve often led teams I’m also very willing to take a back seat; listen, learn, reflect and then contribute.
 
 ## Some Projects
+** Echo: ** A stream based realtime social analytical engine.
 
 **TradeSource:** A trade abstraction framework written in Erlang and Python.
 
@@ -30,3 +31,12 @@ I’m looking for work where my experience and creative development skills will 
 **Hope:** British Telecom’s white elephant, but they  paid me well and it was still a great functional language.
 
 **NewtonSmalltalk:** Yes I ported Smalltalk to the Newton.
+
+
+
+Personal Details
+
+**Name:** Thanos Vassilakis
+**Nationality:** USA & Greek   also with UK residency
+**Spoken Languages:** English & French
+**Interests:** Art, Reading, Music, Film, Skiing, and programming.
