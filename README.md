@@ -37,7 +37,7 @@
                                          much simpler and faster.""",
             'Hope' : """British Telecom’s white elephant, but they  paid me well and it was still a great
                         functional language.""",
-            'NewtonSmalltalk' : "Yes I ported Smalltalk to the Newton.",
+            'NewtonSmalltalk' : "Yes I ported Smalltalk to the Newton."
         }
     }
   
