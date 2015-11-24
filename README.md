@@ -38,6 +38,14 @@
             'Hope' : """British Telecom’s white elephant, but they  paid me well and it was still a great
                         functional language.""",
             'NewtonSmalltalk' : "Yes I ported Smalltalk to the Newton."
+        },
+        
+        tags = {
+            'c': 30, 
+            'c++': 28,
+            'python': 20,
+            'erlang': 17,
+            'javascript': 17
         }
     }
   
