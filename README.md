@@ -1,4 +1,4 @@
-  ```json
+  ```python
     Thanos_Vassilakis = {
         'Personal Details': {
             'Name': "Thanos Vassilakis",
