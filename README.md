@@ -1,3 +1,4 @@
+  ```json
     Thanos_Vassilakis = {
         'Personal Details': {
             'Name': "Thanos Vassilakis",
@@ -45,9 +46,12 @@
             'c++': 28,
             'python': 20,
             'erlang': 17,
-            'javascript': 17
+            'java': 18,
+            'javascript:19
         }
     }
+    
+    ```
   
   
   
