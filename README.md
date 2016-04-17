@@ -8,7 +8,7 @@
         },
   
         'My Pitch': """I’m looking for work where my experience and creative development skills will
-                       be used. I’m not seeking a title but a position where I can remain hands on and yet have
+                       be used. I’m not seeking a title but a position where I can remain hands on and yet be given
                        enough responsibility and trust to really contribute to the company. In my career I’ve had
                        the  privilege to built really great development teams, and with them create powerful
                        and successful frameworks and applications. I’m hoping these experiences and my strong
@@ -41,14 +41,25 @@
             'NewtonSmalltalk' : "Yes I ported Smalltalk to the Newton."
         },
         
-        tags = {
-            'c': 30, 
-            'c++': 28,
-            'python': 20,
-            'erlang': 17,
-            'java': 18,
-            'javascript:19
-        }
+        technologies : {
+            'c': 31, 
+            'c++': 29,
+            'python': 21,
+            'java': 19,
+            'javascript':19,
+            'erlang': 18
+         
+        },
+        
+        'employees': ['Apple', 'Atari', 'British Telecom',  'Cordis', 'Credit Suisse', 'Ericsson', 
+                      'European Pariliament', 'Ferrantti',  'HP',  'Barclays', 'JP Morgan', 
+                      'RBC', 'ICAP', 'NYSE', 'SIAC', 'Multitone', 'AAH Medical', 'Panasonic', 'West LB'
+        ],
+        
+        'domains': ['telecom', 'games', 'gaming',  'trading', 'market risk', 'big data', 
+                      'work flow', 'HPC',  'mobile',  'web', 'medical', 'scial media analytics', 
+                      'NLP', 'machine learning'
+        ],
     }
     
 ```
