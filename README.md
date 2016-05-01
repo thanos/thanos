@@ -4,7 +4,7 @@
             'Name': "Thanos Vassilakis",
             'Nationality': "USA & Greek   also with UK residency",
             'Spoken Languages': "English & French",
-            'Interests': "Art, Reading, Music, Film, Skiing, and programming."
+            'Interests': "Art, Reading, Music, Film, Gardening, Skiing, and programming."
         },
   
         'My Pitch': """I’m looking for work where my experience and creative development skills will
