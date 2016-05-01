@@ -41,7 +41,7 @@
             'NewtonSmalltalk' : "Yes I ported Smalltalk to the Newton."
         },
         
-        technologies : {
+        'programming_in' : {
             'c': 31, 
             'c++': 29,
             'python': 21,
@@ -60,6 +60,9 @@
                       'work flow', 'HPC',  'mobile',  'web', 'medical', 'scial media analytics', 
                       'NLP', 'machine learning'
         ],
+        
+        'technologies': [ 'django', 'RabbitMQ', 'Riac Core', 'Messos', 'Docker', 'Kafka', 'Redis', 'Memcache', 'Postgres', 'Elasticsearch', 'Haddop', 'node', 'websockets', 'and a lot more'
+        ]
     }
     
 ```
