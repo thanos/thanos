@@ -57,11 +57,11 @@
         ],
         
         'domains': ['telecom', 'games', 'gaming',  'trading', 'market risk', 'big data', 
-                      'work flow', 'HPC',  'mobile',  'web', 'medical', 'scial media analytics', 
-                      'NLP', 'machine learning'
+                      'work flow', 'HPC',  'mobile',  'web', 'medical', 'social media analytics', 
+                      'NLP', 'machine learning', 'cloud', 'big data'
         ],
         
-        'technologies': [ 'django', 'RabbitMQ', 'Riac Core', 'Messos', 'Docker', 'Kafka', 'Redis', 'Memcache', 'Postgres', 'Elasticsearch', 'Haddop', 'node', 'websockets', 'and a lot more'
+        'technologies': [ 'django', 'RabbitMQ', 'Riac Core', 'Messos', 'Docker', 'Kafka', 'Redis', 'Memcache', 'Postgres', 'Elasticsearch', 'Hadoop', 'node', 'websockets', 'and a lot more'
         ]
     }
     
