@@ -10,7 +10,7 @@
         "My Pitch": """I’m looking for work where my experience and creative development skills will
                        be used. I’m not seeking a title but a position where I can remain hands on and yet be given
                        enough responsibility and trust to really contribute to the company. In my career I’ve had
-                       the  privilege to built really great development teams, and with them create powerful
+                       the  privilege to build really great development teams, and with them create powerful
                        and successful frameworks and applications. I’m hoping these experiences and my strong
                        technical and creative abilities will be exploited. Although I’ve often led teams I’m also
                        very willing to take a back seat; listen, learn, reflect and then contribute.""",
