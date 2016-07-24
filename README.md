@@ -87,6 +87,7 @@
           "games":                    ["Atari", "Zingy"],
           "gaming":                   ["Ceasars Casino", "Electric Coin Company", "Zingy"],
           "medical":                  ["AAH Medical"],
+          "blockchain, encryption & electronic money": [ "British telecom", "Ceasars Casino","Ferrantti", "Marita Bank", "RBC"],
           "trading":                  ["Barclays",  "ICAP", "JP Morgan", "NYSE", "RBC", SIAC"],
           "risk":                     ["West LB", "JP Morgan", "Credit Suisse", "RBC"],
           "big data":                 ["Infinigon Group", "RBC"],
@@ -115,13 +116,51 @@
               "Ericsson/HP",
               "West LB",
               "European Community",
+              "Ceasars Casino",
               "European Parliament", 
               "AAH Medical",
               "Apple",
-              ""
-
-
-        ]
+              "Symantec (Zortech)",
+              "Reuters International",
+              "Honeywell Bull",
+              "British Telecom",
+              "Ferrantti",
+              "Barclays",
+              "Multitone",
+              "Atari",
+              "Unilever",
+              "Atari",
+              "Electric Coin Company"
+        ],
+        
+        other = [
+          "Vise President of The National Center for Art and Technology of Greece",
+          "Internet consultant to the cabinet of the president of the European Parliament, 1994-1996",
+          "Founder of the Linux & Python user groups in Luxembourg.",
+          "Founder of the Python user groups in Düsseldorf",
+          "Python Starship member"
+        ],
+        
+        talks_publications_n_articles =[
+        "Art Market, Bloomberg Quant BBQ Talk 2016",
+        "Socila Analytics, Bloomberg Quant BBQ Talk 2015",
+        "Introducing Phonescript, MobiCom 2006".
+        "Flash Lite Application Development: Trails and Issues, Adobe MAX 2006",
+        "Financial Algorithms Cookbook, ISBN 978-1-4116-2259-3",
+        "Trading in Python, Fast Track PyCon 2002",
+        "Using LinPAK EISPAK from Erlang , Algorithms Journal, Vol 41, 1997",
+        "Beagle and Evolutionary Trading, Algorithms Journal, Vol 9, 1989",
+        "An EISPAK Introduction, Algorithms Journal, Vol. 8, 1988",
+        "A LinPAK Introduction, Algorithms Journal, Vol 7, 1988",
+        "How sharp is OCCAM, Algorithms Journal, Vol. 6, 1988",
+        "Fixed versus Float, Algorithms Journal, Vol 4, 1987",
+        "Cordic Functions, Algorithms Journal, Vol. 3, 1987",
+        "Finding primes Through Probability, Algorithms Journal, Vol 2, 1987",
+        "Large Arithmetic, Algorithms Journal, Vol. 1, 1987",
+        "Financial Numeric Algorithms Edition One, Algorithms Press 1987",
+        "Probably Prime, SIG Press, 1987"
+      ]  
+        
     }
     
 ```
