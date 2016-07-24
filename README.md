@@ -10,7 +10,7 @@
         "My Pitch": """I’m looking for work where my experience and creative development skills will
                        be used. I’m not seeking a title but a position where I can remain hands on and yet be given
                        enough responsibility and trust to really contribute to the company. In my career I’ve had
-                       the  privilege to build really great development teams, and with them create powerful
+                       the  privilege to built really great development teams, and with them create powerful
                        and successful frameworks and applications. I’m hoping these experiences and my strong
                        technical and creative abilities will be exploited. Although I’ve often led teams I’m also
                        very willing to take a back seat; listen, learn, reflect and then contribute.""",
@@ -51,29 +51,77 @@
          
         },
         
-        "employees": ["Apple", "Atari", "British Telecom",  "Ceasars Casino", "Cordis", "Credit Suisse", "Ericsson", 
-                      "European Pariliament", "Ferrantti",  "HP",  "Barclays", "JP Morgan", "Infinigon Group", "Books On Demand",
-                      "RBC", "ICAP", "NYSE", "SIAC", "Multitone", "AAH Medical", "Panasonic", "West LB", "Zingy"
-        ],
+        "employees": [
+                        "AAH Medical",
+                        "Apple",
+                        "Atari",
+                        "Barclays",
+                        "Books On Demand",
+                        "British Telecom",
+                        "Ceasars Casino",
+                        "Credit Suisse",
+                        "Electric Coin Company",
+                        "Ericsson",
+                        "European Community/Cordis",
+                        "European Pariliament",
+                        "Ferrantti",
+                        "Honeywell Bull",
+                        "HP",
+                        "ICAP",
+                        "Infinigon Group",
+                        "JP Morgan",
+                        "Multitone",
+                        "NYSE",
+                        "Panasonic",
+                        "RBC",
+                        "SIAC",
+                        "Unilever",
+                        "West LB",
+                        "Zingy"
+                    ],
         
         "domains": {
-          "telecom":                  ["Multitone", "British telecom", "Ericsson", "HP"],
+          "robotics":                 ["Unilever"],
+          "military":                 ["Ferrantti"],
+          "comms/telecom":            ["British telecom",  "Ericsson", "HP", "Honeywell Bull", "Multitone", "Reuters"],
           "games":                    ["Atari", "Zingy"],
-          "gaming":                   ["Zingy", "Ceasars Casino"],
+          "gaming":                   ["Ceasars Casino", "Electric Coin Company", "Zingy"],
           "medical":                  ["AAH Medical"],
-          "trading":                  ["Barclays", "JP Morgan", "ICAP", "NYSE", "SIAC"],
-          "market risk":              ["JP Morgan", "Credit Suisse", "RBC"],
-          "big data":                 ["JP Morgan", "Infinigon Group", "RBC"],
+          "trading":                  ["Barclays",  "ICAP", "JP Morgan", "NYSE", "RBC", SIAC"],
+          "risk":                     ["West LB", "JP Morgan", "Credit Suisse", "RBC"],
+          "big data":                 ["Infinigon Group", "RBC"],
           "social media analytics":   ["Infinigon Group", "RBC"],
-          "machine learning & NLP":   ["Infinigon Group", "RBC"],
-          "cloud":                    ["JP Morgan", "Infinigon Group", "RBC"],
+          "machine learning":         ["Ceasars Casino", "Infinigon Group", "RBC"],
+          "NLP":                      ["Ceasars Casino", "Infinigon Group", "RBC"],
+          "cloud":                    ["Infinigon Group", "RBC"],
           "HPC":                      ["JP Morgan", "NYSE", "SIAC", "HP"],
-          "mobile":                   ["ICAP",  "Ericsson", "Zingy"]
+          "mobile":                   ["ICAP",  "Ericsson", "Zingy", "Apple"],
+          "workflow":                 ["European Parliament",  "European Community"],
          },
         
         "technologies": [ "django", "RabbitMQ", "Riac Core", "Messos", "Docker", "Kafka", "Redis", 
                           "Memcache", "Postgres", "Elasticsearch", "Hadoop", "node", "websockets", "and a lot more"
                         ]
+        "stack_of_past_work" : [
+              "RBC",
+              "Infinigon Group",
+              "RBC",
+              "JP Morgan",
+              "Credit Suisse",
+              "JP Morgan",
+              "Zingy",
+              "ICAP",
+              "SIAC/NYSE",
+              "Ericsson/HP",
+              "West LB",
+              "European Community",
+              "European Parliament", 
+              "AAH Medical",
+              "Apple",
+              ""
+
+
+        ]
     }
     
 ```
