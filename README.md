@@ -148,7 +148,7 @@ Thanos_Vassilakis = {
 
     "talks publications n articles": [
         "Art Market, Bloomberg Quant BBQ Talk 2016",
-        "Socila Analytics, Bloomberg Quant BBQ Talk 2015",
+        "Social Analytics, Bloomberg Quant BBQ Talk 2015",
         "Introducing Phonescript, MobiCom 2006",
         "Flash Lite Application Development: Trails and Issues, Adobe MAX 2006",
         "Financial Algorithms Cookbook, ISBN 978-1-4116-2259-3",
