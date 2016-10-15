@@ -7,7 +7,8 @@ Thanos_Vassilakis = {
         "spoken languages": "English & French",
         "interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming."
     },
-
+    "now": "Head of R&D of Technology and Operations at RBCCM",
+    
     "my pitch": """I’m looking for work where my experience and creative development skills will
                be used. I’m not seeking a title but a position where I can remain hands on and yet be given
                enough responsibility and trust to really contribute to the company. In my career I’ve had
