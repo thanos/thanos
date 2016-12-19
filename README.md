@@ -7,7 +7,7 @@ Thanos_Vassilakis = {
         "spoken languages": "English & French",
         "interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming."
     },
-    "now": "Head of R&D of Technology and Operations at RBCCM",
+    "now": "Director of R&D for Technology at RBC CM",
     
     "my pitch": """I’m looking for work where my experience and creative development skills will
                be used. I’m not seeking a title but a position where I can remain hands on and yet be given
@@ -148,7 +148,8 @@ Thanos_Vassilakis = {
     ],
 
     "talks publications n articles": [
-        "Art Market, Bloomberg Quant BBQ Talk 2016",
+        "Blockchains, Bloomberg Quant BBQ Talk September 2016",
+        "Art Market, Bloomberg Quant BBQ Talk April 2016",
         "Social Analytics, Bloomberg Quant BBQ Talk 2015",
         "Introducing Phonescript, MobiCom 2006",
         "Flash Lite Application Development: Trails and Issues, Adobe MAX 2006",
