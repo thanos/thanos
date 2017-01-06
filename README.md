@@ -7,8 +7,10 @@ Thanos_Vassilakis = {
         "spoken languages": "English & French",
         "interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming."
     },
-    "now": "Director of R&D for Technology at RBC CM",
-    
+    "now": { 
+        "title": "Director of R&D for Technology at RBC CM",
+        "current projects" : ["Building a bank wide data fabric", "distributed big data cache"]
+        },
     "my pitch": """I’m looking for work where my experience and creative development skills will
                be used. I’m not seeking a title but a position where I can remain hands on and yet be given
                enough responsibility and trust to really contribute to the company. In my career I’ve had
