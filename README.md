@@ -18,6 +18,11 @@ Thanos_Vassilakis = {
                and successful frameworks and applications. I’m hoping these experiences and my strong
                technical and creative abilities will be exploited. Although I’ve often led teams I’m also
                very willing to take a back seat; listen, learn, reflect and then contribute.""",
+               
+    "bio": """I’m currently head of R&D and Shared Technical Services for RBC CM. I wasn’t always in finance and tried my best to avoid this domain. I started work in 1979 for the Electric Coin company programming slot machines, developed games for Atari, functional programming languages for Imperial College, fuzzy logic control systems for Unilever, and Occam based neural networks on Transputers. In the early 90s I development tools and languages for Apple’s Newton,  a centralized internet-based patient register for the National Health, an internet casino for Caesars, an early form of cyber currency  Marita bank, we developed VAR system for Westdeutsche Landesbank.
+Since 1997 I returned to my hometown of New York I’ve been mostly working on finance gigs, developing high-frequency trading systems, trading platforms for fixed income and risk systems for commodities at various joints such as  ICAP,  JP Morgan, Credit Suisse. There have been some sojourns with a few startups which included mobile apps, social media analytics, blockchains, smart contacts, and alt-currencies.
+I've also held various posts such IT advisor to the European Parliament president,  Klaus Hänsch, IT Director of the Mykonos Biennale, Institute of Art & Technology of Greece, and chief editor of Algorithms.
+""",
 
     "some projects": {
         "Echo": "A stream based realtime social analytical engine.",
