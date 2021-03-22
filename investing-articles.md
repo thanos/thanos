@@ -1,4 +1,4 @@
-# Recent Articles I've Read
+# Of Interest
 
 ### Data Science in Julia for Hackers
   [https://datasciencejuliahackers.com/](https://datasciencejuliahackers.com/)
