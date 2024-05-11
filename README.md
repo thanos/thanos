@@ -1,4 +1,4 @@
-[![Thanos' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thanos&count_private=true&show_icons=true&theme=radical)](https://github.com/thanos/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react"/>
 
 
 
