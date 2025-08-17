@@ -1,4 +1,4 @@
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react&&hide=javascript,html,CSS"/>
 
 
 
