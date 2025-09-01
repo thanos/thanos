@@ -6,7 +6,7 @@
 Thanos_Vassilakis = {
     "Personal Details": {
         "name": "Thanos Vassilakis",
-        "mobile": "+1-917-517-5912",
+        "email": "thanos@automa.us",
         "nationality": "USA & Greek   also with UK residency",
         "spoken languages": "English & French",
         "interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming."
@@ -63,7 +63,13 @@ I've also held various posts such IT advisor to the European Parliament presiden
         "python": 21,
         "java": 19,
         "javascript": 19,
-        "erlang": 18
+        "erlang": 18,
+        "elixir": 8,
+        "solidity": 8,
+        "rust": 1,
+        "golang": 5,
+        "zig": 1
+        
     },
 
     "employees": [
@@ -120,7 +126,7 @@ I've also held various posts such IT advisor to the European Parliament presiden
         "django", "RabbitMQ", "Riac Core", "Messos", "Docker", "Kafka", "Redis",
         "Memcache", "Postgres", "Elasticsearch", "Hadoop", "node", "websockets", "and a lot more"
     ],
-    "stack of past work": [
+    "stack of work past": [
         "RBC",
         "Infinigon Group",
         "RBC",
