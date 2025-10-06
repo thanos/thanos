@@ -6,7 +6,7 @@
 <img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/5859a24e-c9af-478a-907d-f08dd2874566" />
 
 
-<div style="text-align: right;">
+
 ```python
 Thanos_Vassilakis = {
     "Personal Details": {
@@ -190,6 +190,5 @@ I've also held various posts such IT advisor to the European Parliament presiden
         "Probably Prime, SIG Press, 1987"
     ]
 }
-          
-</div>
+          ```
   
