@@ -1,11 +1,11 @@
-
+<div style="text-align: right;">
 
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react&&hide=javascript,html,CSS"/>
   <br />
 <img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/5859a24e-c9af-478a-907d-f08dd2874566" />
 
-
+</div>
 
 ```python
 Thanos_Vassilakis = {
