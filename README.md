@@ -12,8 +12,8 @@ Thanos_Vassilakis = {
         "interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming."
     },
     "now": { 
-        "title": "Director of R&D for Technology at RBC CM",
-        "current projects" : ["Building a bank wide data fabric", "distributed big data cache"]
+        "title": "Distinguished Engineer, MD at RBC Finance",
+        "current projects" : ["Modernizing the General Ledger", "Everything AI!"]
         },
     "my pitch": """I’m looking for work where my experience and creative development skills will
                be used. I’m not seeking a title but a position where I can remain hands on and yet be given
@@ -72,7 +72,7 @@ I've also held various posts such IT advisor to the European Parliament presiden
         
     },
 
-    "employees": [
+    "employers": [
         "AAH Medical",
         "Apple",
         "Atari",
@@ -186,8 +186,5 @@ I've also held various posts such IT advisor to the European Parliament presiden
     ]
 }
           
-### r/FPGA - FPGA development live stream: FPGA board bring-up and testing of high-speed serializers
-  [https://www.reddit.com/r/FPGA/comments/m7msgf/fpga_development_live_stream_fpga_board_bringup/?utm_source=share&utm_medium=ios_app&utm_name=iossmf](https://www.reddit.com/r/FPGA/comments/m7msgf/fpga_development_live_stream_fpga_board_bringup/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)\
-  18 Mar 2021\
-  Start time: 1:00 PM PDT on Friday March 19 Note: the recording should be available at the same link afterwards, so no worries if you can't watch …
+
   
