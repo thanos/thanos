@@ -1,5 +1,5 @@
 
-  <img width="645" height="698" alt="Screenshot 2025-10-05 at 20 46 51" src="https://github.com/user-attachments/assets/5e0c7728-9a53-4910-8826-49ff29d07513" />
+<img width="608" height="771" alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/5859a24e-c9af-478a-907d-f08dd2874566" />
 
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react&&hide=javascript,html,CSS"/>
