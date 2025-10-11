@@ -1,25 +1,11 @@
-
-
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react&&hide=javascript,html,CSS"/>
-  <br />
-<img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/5859a24e-c9af-478a-907d-f08dd2874566" />
+| | thanos_vassilakis | |
+|:---|:---:|:---:|
+| `{` <br> &nbsp; `"name": "Thanos Vassilakis",` <br> &nbsp;  &nbsp; `"email": "thanos@automa.us",` <br> &nbsp; &nbsp; `"nationality": "USA & Gree",` <br> &nbsp; &nbsp; `"spoken languages": "English & French",` <br> &nbsp; &nbsp; `"interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming."` <br>  &nbsp; &nbsp; `"now":` `{`   <br>  &nbsp; &nbsp; &nbsp; &nbsp;`"title": "Distinguished Engineer, MD at RBC Finance",` <br>  &nbsp; &nbsp; &nbsp; &nbsp;`"current projects" : ["Modernizing the General Ledger", "Everything AI!"]` <br>   &nbsp;&nbsp;`}`  <br> `}` | <img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/5859a24e-c9af-478a-907d-f08dd2874566" />  |  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react&&hide=javascript,html,CSS"/> |
 
 
 
 ```python
-Thanos_Vassilakis = {
-    "Personal Details": {
-        "name": "Thanos Vassilakis",
-        "email": "thanos@automa.us",
-        "nationality": "USA & Greek   also with UK residency",
-        "spoken languages": "English & French",
-        "interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming."
-    },
-    "now": { 
-        "title": "Distinguished Engineer, MD at RBC Finance",
-        "current projects" : ["Modernizing the General Ledger", "Everything AI!"]
-        },
+thanos_vassilakis_continued = {
     "my pitch": """I’m looking for work where my experience and creative development skills will
                be used. I’m not seeking a title but a position where I can remain hands on and yet be given
                enough responsibility and trust to really contribute to the company. In my career I’ve had
