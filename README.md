@@ -180,4 +180,8 @@ I've also held various posts such IT advisor to the European Parliament presiden
     ]
 }
 ```
+<img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/b18d29d5-9f51-4fb2-a2bf-8ef8dd90ee06" />
+At PyCon 2003 - photo by Guido van Rossum 
+
+https://web.archive.org/web/20041024235844/http://www.python.org/~guido/pycon03/PyCon/P3280035r.JPG
   
