@@ -6,7 +6,13 @@
 
 ```python
 thanos_vassilakis_continued = {
-    "now": { 
+  "name": "Thanos Vassilakis", 
+    "email": "thanos@automa.us", 
+    "nationality": "USA & Gree", 
+    "spoken languages": "English & French", 
+    "interests": "Art, Reading, Music, Film, Gardening, Skiing, and programming." 	
+    "now": {
+
        "title": "Distinguished Engineer, MD at RBC Finance", 
        "current projects" : ["Modernizing the General Ledger", "Everything AI!"],
     "my pitch": """I’m looking for work where my experience and creative development skills will
