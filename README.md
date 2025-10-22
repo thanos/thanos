@@ -1,6 +1,6 @@
-|  | | |
-|:---:|:---:|--:|
-| <img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/5859a24e-c9af-478a-907d-f08dd2874566" /> <br> <i></i>On the boat to Delos |  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react&&hide=javascript,html,CSS"/> | <a href="https://web.archive.org/web/20041024235844/http://www.python.org/~guido/pycon03/PyCon/P3280035r.JPG"><img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/b18d29d5-9f51-4fb2-a2bf-8ef8dd90ee06" /></a> <br> At <a href="https://web.archive.org/web/20130125060013/http://www.python.org/~guido/pycon03/">PyCon 2003</a> - <i>photo by <a href="https://gvanrossum.github.io/">Guido van Rossum</a><i> |
+| | |
+|:---:|--:|
+| <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanos&layout=compact&langs_count=7&theme=react&&hide=javascript,html,CSS"/> | <a href="https://web.archive.org/web/20041024235844/http://www.python.org/~guido/pycon03/PyCon/P3280035r.JPG"><img width="300"  alt="Screenshot 2025-10-05 at 20 47 53" src="https://github.com/user-attachments/assets/b18d29d5-9f51-4fb2-a2bf-8ef8dd90ee06" /></a> <br> At <a href="https://web.archive.org/web/20130125060013/http://www.python.org/~guido/pycon03/">PyCon 2003</a> - <i>photo by <a href="https://gvanrossum.github.io/">Guido van Rossum</a><i> |
 
 
 
