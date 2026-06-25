@@ -12,6 +12,7 @@ tags:
 - smartcontract
 
 draft: false
+series: mining-foundations
 ---
 
 # Noise_IK vs Noise_XK Comparison

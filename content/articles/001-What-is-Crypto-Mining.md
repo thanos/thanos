@@ -1,7 +1,7 @@
 ---
 title: "What Is Crypto Mining?"
 description: "Article 1: High-Level Overview of Crypto Mining"
-date: 2024-09-19
+date: 2024-09-01
 tags:
 - Blockchain
 - Crypto
