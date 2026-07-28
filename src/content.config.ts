@@ -16,7 +16,7 @@ const articleSchema = baseSchema.extend({
 });
 
 const articles = defineCollection({
-  loader: glob({ base: './content/articles', pattern: '**/*.md' }),
+  loader: glob({ base: './content/articles', pattern: '**/!(README).md' }),
   schema: articleSchema,
 });
 
